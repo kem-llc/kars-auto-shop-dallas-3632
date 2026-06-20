@@ -1,0 +1,322 @@
+{
+  "business": {
+    "name": "Kars Auto Shop",
+    "shortName": "Kars Auto",
+    "tagline": "Dallas' Trusted Choice for Expert Auto Repair",
+    "niche": "Auto Mechanic",
+    "phone": "(469) 567-3632",
+    "address": "11322 Kline Dr, Dallas, TX 75229",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7:30 AM – 6:00 PM, Sat 8:00 AM – 2:00 PM",
+    "ctaLabel": "Schedule Your Appointment",
+    "headerCta": "Book Now"
+  },
+  "seo": {
+    "title": "Kars Auto Shop | Expert Auto Mechanic in Dallas, TX | (469) 567-3632",
+    "description": "Kars Auto Shop in Dallas, TX offers professional auto repair, diagnostics, and maintenance. Trust our experienced mechanics for quality service. Call (469) 567-3632 today!"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas Auto Repair Experts",
+      "headline": "Your Car Deserves the Best Care in Dallas",
+      "subheadline": "From routine maintenance to major repairs, our certified mechanics deliver reliable, transparent service you can count on.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (469) 567-3632"
+    },
+    "stats": [
+      {
+        "value": "20+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "4.7",
+        "label": "Customer Rating"
+      },
+      {
+        "value": "5000+",
+        "label": "Cars Serviced"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Transparent Service",
+        "title": "Honest Diagnostics, Fair Prices",
+        "body": "We believe in upfront communication. Our detailed inspections and clear estimates mean no surprises—just quality repairs you can trust.",
+        "bullets": [
+          "Free multi-point vehicle inspection",
+          "Itemized estimates with no hidden fees",
+          "Factory-grade diagnostic equipment"
+        ],
+        "reverse": false,
+        "cardLabel": "Our Promise",
+        "cardTitle": "Worry-Free Repairs",
+        "cardBody": "Every repair comes with a 12-month/12,000-mile warranty for your peace of mind."
+      },
+      {
+        "eyebrow": "Certified Mechanics",
+        "title": "Expert Technicians You Can Rely On",
+        "body": "Our ASE-certified mechanics stay current with the latest automotive technology. From domestic to import, we handle it all.",
+        "bullets": [
+          "ASE-certified master technicians",
+          "Ongoing training on new vehicle systems",
+          "Specialized tools for European and Asian models"
+        ],
+        "reverse": true,
+        "cardLabel": "Expertise",
+        "cardTitle": "Advanced Diagnostics",
+        "cardBody": "We invest in top-tier diagnostic tools to pinpoint issues quickly and accurately, saving you time and money."
+      }
+    ],
+    "whyTitle": "Why Choose Kars Auto Shop?",
+    "whyChooseUs": [
+      {
+        "title": "Locally Owned & Operated",
+        "description": "Proudly serving the Dallas community for over 20 years. We treat every customer like a neighbor."
+      },
+      {
+        "title": "Quality Parts Guaranteed",
+        "description": "We use OEM and high-quality aftermarket parts backed by industry-leading warranties."
+      },
+      {
+        "title": "Convenient Location & Hours",
+        "description": "Easily accessible near I-35E and Loop 12, with early morning and Saturday hours to fit your schedule."
+      },
+      {
+        "title": "Customer-First Approach",
+        "description": "Your satisfaction drives everything we do. We explain every repair and answer all your questions."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I've been bringing my car here for years. They're honest, fair, and always get the job done right the first time.",
+        "author": "Mike R.",
+        "role": "Oak Lawn resident"
+      },
+      {
+        "quote": "After a bad experience elsewhere, Kars Auto restored my trust. They explained everything and saved me money.",
+        "author": "Jessica T.",
+        "role": "Lakewood homeowner"
+      },
+      {
+        "quote": "Fast, professional, and they stand by their work. Highly recommend for any auto repair needs.",
+        "author": "David L.",
+        "role": "Uptown professional"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Started?",
+      "subheadline": "Call or book online to schedule your appointment. We'll get you back on the road safely.",
+      "primaryCta": "Book an Appointment",
+      "secondaryCta": "Call (469) 567-3632"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Kars Auto Shop, we offer a full range of auto repair and maintenance services designed to keep your vehicle running smoothly. From routine oil changes to complex engine repairs, our skilled mechanics have you covered."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Accurate diagnostics and expert engine repair to restore performance.",
+      "longDescription": "Our advanced diagnostic tools quickly identify engine issues, from check engine lights to performance problems. We provide thorough repairs using quality parts to ensure long-lasting results.",
+      "benefits": [
+        "Pinpoint accuracy with factory-grade scanners",
+        "Transparent pricing before any work begins",
+        "Warranty on all engine repairs"
+      ],
+      "process": [
+        {
+          "title": "Comprehensive Scan",
+          "description": "We connect your vehicle to our diagnostic system to read error codes and live data."
+        },
+        {
+          "title": "Detailed Explanation",
+          "description": "Our mechanic walks you through the findings and discusses repair options."
+        },
+        {
+          "title": "Quality Repair",
+          "description": "We perform the repair with precision, then test-drive to confirm the fix."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does an engine diagnostic take?",
+          "answer": "Most diagnostics are completed within 1-2 hours, depending on the complexity."
+        },
+        {
+          "question": "Do you offer payment plans for major repairs?",
+          "answer": "Yes, we work with financing partners to help you manage larger repair costs."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Service & Repair",
+      "shortDescription": "Complete brake inspections, pad replacement, and rotor resurfacing.",
+      "longDescription": "Your safety is our priority. We inspect every component of your braking system and recommend only necessary repairs. Our brake services restore stopping power and extend the life of your system.",
+      "benefits": [
+        "Thorough inspection of pads, rotors, calipers, and lines",
+        "Use of premium brake components for reliability",
+        "Squeak-free performance guarantee"
+      ],
+      "process": [
+        {
+          "title": "Brake Inspection",
+          "description": "We remove wheels and measure pad thickness, rotor condition, and fluid levels."
+        },
+        {
+          "title": "Recommendation",
+          "description": "We provide a detailed report and explain what needs attention."
+        },
+        {
+          "title": "Installation & Test",
+          "description": "We install quality parts and perform a road test to ensure smooth operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000-50,000 miles, but it depends on driving habits. We inspect them at every visit."
+        },
+        {
+          "question": "Can you fix a soft brake pedal?",
+          "answer": "Yes, soft pedals often indicate air in the lines or a fluid leak. We'll diagnose and repair the issue."
+        }
+      ],
+      "slug": "brake-service-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Fluid Services",
+      "shortDescription": "Keep your engine protected with regular oil changes and fluid checks.",
+      "longDescription": "Routine oil changes are the simplest way to extend engine life. We use high-quality oils and filters, and check all other fluids to keep your car running efficiently.",
+      "benefits": [
+        "Conventional and synthetic oil options",
+        "Complimentary fluid top-off with every change",
+        "Quick service in under 30 minutes"
+      ],
+      "process": [
+        {
+          "title": "Drain Old Oil",
+          "description": "We safely drain the old oil and replace the filter."
+        },
+        {
+          "title": "Refill with Quality Oil",
+          "description": "We add the correct viscosity oil for your vehicle."
+        },
+        {
+          "title": "Multi-Point Check",
+          "description": "We inspect fluids, belts, hoses, and tire pressure."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which oil is best for my car?",
+          "answer": "We recommend the oil grade specified in your owner's manual. We carry both conventional and synthetic."
+        },
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Most modern cars need oil every 5,000-7,500 miles. We'll remind you when it's time."
+        }
+      ],
+      "slug": "oil-change-fluid-services"
+    },
+    {
+      "icon": "04",
+      "title": "AC & Heating System Repair",
+      "shortDescription": "Keep your cabin comfortable with expert AC and heater service.",
+      "longDescription": "Whether it's a hot Texas summer or a chilly winter morning, our technicians can diagnose and repair your vehicle's climate control system. From refrigerant recharge to compressor replacement, we do it all.",
+      "benefits": [
+        "Complete AC performance test",
+        "EPA-certified refrigerant handling",
+        "Heater core and blend door repairs"
+      ],
+      "process": [
+        {
+          "title": "System Inspection",
+          "description": "We check refrigerant pressure, compressor operation, and airflow."
+        },
+        {
+          "title": "Leak Detection",
+          "description": "Using electronic detectors and UV dye, we find any leaks."
+        },
+        {
+          "title": "Repair & Recharge",
+          "description": "We fix the issue and recharge the system to factory specs."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my AC blowing warm air?",
+          "answer": "Common causes include low refrigerant, a faulty compressor, or an electrical issue. We'll diagnose the root cause."
+        },
+        {
+          "question": "How often should I service my car's AC?",
+          "answer": "We recommend an AC check every two years to ensure optimal performance and catch small issues early."
+        }
+      ],
+      "slug": "ac-heating-system-repair"
+    }
+  ],
+  "about": {
+    "headline": "Dallas' Trusted Auto Repair Since 2003",
+    "mission": "To provide honest, high-quality auto repair services that keep our community safe on the road.",
+    "story": [
+      "Kars Auto Shop was founded in 2003 by master mechanic Carlos M. with a simple vision: create a repair shop where customers are treated like family. Starting with a small two-bay garage on Kline Drive, Carlos built a reputation for integrity and technical skill that quickly spread throughout Dallas. Over the years, we've grown to a full-service facility with six bays and a team of ASE-certified technicians, but our core values remain unchanged.",
+      "We invest in the latest diagnostic technology and continuous training so that we can service modern vehicles with confidence. From the first handshake to the final test drive, we prioritize clear communication and quality workmanship. Every car that leaves our shop is a testament to our commitment to excellence."
+    ],
+    "highlight": {
+      "stat": "20+",
+      "label": "Years of Service"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We never recommend unnecessary repairs. Our honest assessments build lasting trust."
+      },
+      {
+        "title": "Quality",
+        "description": "We use only top-tier parts and follow manufacturer specifications for every repair."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat every customer and their vehicle with the utmost respect and professionalism."
+      },
+      {
+        "title": "Community",
+        "description": "We support local schools and events because Dallas is our home too."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Kars Auto Shop",
+    "subheadline": "Ready to schedule service or have a question? We're here to help.",
+    "primaryCta": "Call (469) 567-3632",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Irving",
+      "Garland",
+      "Mesquite",
+      "Carrollton",
+      "Farmers Branch"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.7,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:4695673632",
+  "current_year": 2026,
+  "header_cta": "Book Now"
+}
